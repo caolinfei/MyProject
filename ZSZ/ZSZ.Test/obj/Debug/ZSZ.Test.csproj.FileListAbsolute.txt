@@ -1,0 +1,17 @@
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\bin\Debug\ZSZ.Test.dll
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\bin\Debug\ZSZ.Test.pdb
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\obj\Debug\ZSZ.Test.csprojAssemblyReference.cache
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\obj\Debug\ZSZ.Test.csproj.CoreCompileInputs.cache
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\obj\Debug\ZSZ.Test.csproj.CopyComplete
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\obj\Debug\ZSZ.Test.dll
+C:\Users\caolf\Desktop\CodeDemo\ZSZ\ZSZ.Test\obj\Debug\ZSZ.Test.pdb
